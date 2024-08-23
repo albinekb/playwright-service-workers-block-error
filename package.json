@@ -1,0 +1,22 @@
+{
+  "name": "service-workers-block-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "tsx": "^4.17.0",
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "pnpm@9.3.0+sha256.e1f9e8d1a16607a46dd3c158b5f7a7dc7945501d1c6222d454d63d033d1d918f",
+  "dependencies": {
+    "playwright": "^1.46.1"
+  }
+}
